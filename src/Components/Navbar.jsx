@@ -12,7 +12,7 @@ const Navbar = () => {
 
             <NavLink to="/">
               <div className='ml-10 flex justify-center items-center gap-x-3'>
-              <img src="/logo1.png" className='h-14'/>
+              <img src="/logo1.png" alt="logo" className='h-14'/>
               {/* <div className='font-bold text-green-700 text-[35px]'>Shopsy</div> */}
               </div>
             </NavLink>
