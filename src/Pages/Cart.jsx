@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import { useSelector } from 'react-redux'
-import { Link, NavLink } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import CartItem from '../Components/CartItem';
 
 
