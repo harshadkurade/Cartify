@@ -31,5 +31,5 @@ Check out the live deployment of [Cartify here](https://myntraclone-five.vercel.
 
 ## Code Repository
 
-The source code for Cartify is available on GitHub [here](). (Replace # with your GitHub repository link)
+The source code for Cartify is available on GitHub [here](https://github.com/harshadkurade/myntraclone.git).
 
