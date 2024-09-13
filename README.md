@@ -10,7 +10,7 @@ Responsive Design: Cartify is optimized for all device types, ensuring accessibi
 Advanced State Management: Utilizing Redux for efficient state management, Cartify ensures a responsive and lag-free user interface.
 Intuitive Navigation: Implemented with React Router, the application offers smooth and intuitive navigation, enhancing the overall user experience.
 
-## Perks Over Myntra App :
+## Advantages Over Other E-Commerce Apps :
 
 Enhanced User Interaction: Cartify's real-time cart management is more responsive and user-friendly, allowing for quicker item addition and removal.
 Improved Cart Visibility: The real-time total value calculation offers immediate feedback, helping users make informed purchasing decisions.
